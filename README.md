@@ -6,9 +6,9 @@ by robotoART
 Setup a basic Linux Ubuntu distribution virtual machine on AWS Lightsail, update and secure it from the most common attack vectors. Also install and configure web and database servers on the virtual machine. Deploy the [Video Game Library App](https://github.com/robotoART/VideoGameLibraryApp.git), previously developed for **Build an Item Catalog project**.
 
 ## Linux App address & url
-IP address: 13.58.33.55.
+IP address: Not available at the moment.
 
-Application URL: [http://13.58.33.55](http://13.58.33.55).
+Application URL: Not available at the moment.
 
 ## General steps
 1 - Creae a AWS Lightsail acount and make a Linux Ubuntu distribution
